@@ -1,0 +1,2 @@
+# wp-postcode-price-calculator
+This plugins is built to calculate distance between two UK Specific nearby locations using postcodes. It can be useful for any property, travelling or service based websites. This plugin further allows to calculate rates on Per Mile basis based on the locations searched through postcode. Plugin is tested up to WordPress version 4.9.8 and compatible with lower versions as well. A shortcode [postcode_calculator] can be used for adding calculator on front-end.
