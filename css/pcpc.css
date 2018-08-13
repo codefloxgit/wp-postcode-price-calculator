@@ -1,0 +1,62 @@
+
+#pcpcform{}
+.pcpcpdvi{
+	background: #f5f5f5; padding: 15px;
+}
+#pcpcform label{
+	float: left;
+	padding: 14px 0;
+	padding-left: 0px;
+	margin: 0;
+	border-left: 4px solid #87BD70;
+	padding-left: 5px;
+	font-weight: normal;
+	font-size: 13px;
+}
+.pcpcpdvi input[type="text"]{ 
+	margin:0 !important;
+	width: 50% !important;
+	float: right;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+.wppcpc_pcpcbtn{
+	float: right;
+	background-color: #87BD70;
+	color: #FFF;
+	padding: 12px 0px;
+	display: inline-block;
+	width: 20% !important;
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Raleway';
+	line-height: 24px;
+	outline: none;
+	text-decoration: none;
+	box-shadow: none !important;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.wppcpc_pcpcbtn:hover{
+	background: #ddd
+}
+.pcpc_cost {
+    color: #87BD70;
+    font-size: 24px;
+    float: right;
+}
+.pcpcpdvi {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
